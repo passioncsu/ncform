@@ -87,3 +87,9 @@ package-lock.json
 /.idea/
 /packages/ncform-e2e/yarn.lock
 /packages/ncform-common/yarn.lock
+/packages/ncform/package-lock.json
+/packages/ncform-show/package-lock.json
+/packages/ncform-theme-elementui/package-lock.json
+dev.md
+package.json
+package-lock.json
